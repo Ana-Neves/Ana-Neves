@@ -1,5 +1,6 @@
-# Hi, There! Eu sou a Ana Neves 
 
+# Hi, There! Eu sou a Ana Neves 
+- ⭐🖥️ Estudante de Ciência da Computação na Universidade La Salle
 - 💻🧡 Aluna do Oracle ONE
 - 🐝📚 Estudando com o Programadores do Amanhã 
 - 📌📲 Contate-me no email: contatoananevess@gmail.com
