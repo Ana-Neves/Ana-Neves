@@ -1,7 +1,7 @@
 
 # Hi, There! Eu sou a Ana Neves 
 - ⭐🖥️ Estudante de Ciência da Computação na Universidade La Salle
-- - 🐝📚 Estudando com o Programadores do Amanhã 
+- 🐝📚 Estudando com o Programadores do Amanhã 
 - 💻🧡 Aluna do Oracle ONE
 - 📌📲 Contate-me no email: contatoananevess@gmail.com
 
