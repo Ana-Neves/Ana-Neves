@@ -1,9 +1,10 @@
 
 # Hi, There! Eu sou a Ana Neves 
 - ⭐🖥️ Estudante de Ciência da Computação na Universidade La Salle
+- 💻💚 Aluna do Geração Caldeira 2024
 - 🐝📚 Estudando com o Programadores do Amanhã 
-- 💻🧡 Aluna do Oracle ONE
-- 📌📲 Contate-me no email: contatoananevess@gmail.com
+- 🖥️📙 Alumni do Oracle Next Education 
+- 📌📲 Contate-me no email: ana.carolinemms22@gmail.com
 
 <div align="center">
   <a href="https://github.com/Ana-Neves">
