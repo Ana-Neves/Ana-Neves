@@ -1,6 +1,7 @@
 
 # Hi, There! Eu sou a Ana Neves 
-- ⭐🖥️ Estudante de Ciência da Computação na Universidade La Salle
+- ⭐🖥️ Estudante de Ciência da Computação na Universidade UFRGS
+- 
 - 💻💚 Aluna do Geração Caldeira 2024
 - 🐝📚 Estudando com o Programadores do Amanhã 
 - 🖥️📙 Alumni do Oracle Next Education 
