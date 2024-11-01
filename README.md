@@ -1,9 +1,8 @@
 
 # Hi, There! Eu sou a Ana Neves 
 - ⭐🖥️ Estudante de Ciência da Computação na Universidade UFRGS
-- 
 - 💻💚 Aluna do Geração Caldeira 2024
-- 🐝📚 Estudando com o Programadores do Amanhã 
+- 🐝📚 Alumni do Programadores do Amanhã 
 - 🖥️📙 Alumni do Oracle Next Education 
 - 📌📲 Contate-me no email: ana.carolinemms22@gmail.com
 
