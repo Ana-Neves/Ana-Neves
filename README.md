@@ -1,10 +1,11 @@
+# Hi, There! I'm Ana Neves
 
-# Hi, There! Eu sou a Ana Neves 
-- ⭐🖥️ Estudante de Ciência da Computação na Universidade UFRGS
-- 💻💚 Alumni do Geração Caldeira 2024
-- 🐝📚 Alumni do Programadores do Amanhã 
-- 🖥️📙 Alumni do Oracle Next Education 
-- 📌📲 Contate-me no email: ana.carolinemms22@gmail.com
+- ⭐🖥️ Computer Science student at UFRGS University
+- 💙 Scholarship recipient of the Amanhã Tech Program
+- 💫 LALA Leader at Latin American Leadership
+- 💚 Alumni of Geração Caldeira 2024
+- 🐝📚 Alumni of Programadores do Amanhã
+- 📌📲 Contact me at: ana.carolinemms22@gmail.com
 
 <div align="center">
   <a href="https://github.com/Ana-Neves">
